@@ -13,4 +13,13 @@ Looking forward to seeing your work—give it your best!
 
 
 Latest /Lydia_Test response from a fresh run:
-- {"rpcUrl":"https://ethereum-rpc.publicnode.com","contractAddress":"0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48","name":"USD Coin","symbol":"USDC","decimals":"6","totalSupply":"51670467331493081"}
+```
+Lydia_Test {
+  rpcUrl: 'https://ethereum.publicnode.com',
+  contractAddress: '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48',
+  name: 'USD Coin',
+  symbol: 'USDC',
+  decimals: '6',
+  totalSupply: '51670466723444904'
+}
+```
